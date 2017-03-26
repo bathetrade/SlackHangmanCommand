@@ -6,7 +6,6 @@ var parser = require("body-parser");
 var https = require("https");
 var url = require("url");
 var fs = require("fs");
-var gamestateFactory = require("./hangman_state");
 var logger = require("./logging");
 var hangmanControllerFactory = require("./hangman_controller");
 
