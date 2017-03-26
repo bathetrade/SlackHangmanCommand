@@ -1,0 +1,16 @@
+{
+  "name": "slack-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "author": "Derek",
+  "license": "ISC"
+}
